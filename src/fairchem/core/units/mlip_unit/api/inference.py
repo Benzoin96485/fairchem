@@ -19,6 +19,7 @@ class UMATask(StrEnum):
     OC20 = "oc20"
     OC25 = "oc25"
     OMC = "omc"
+    ATP = "atp"
 
 
 CHARGE_RANGE = [-100, 100]
