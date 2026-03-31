@@ -21,8 +21,8 @@ class UMATask(StrEnum):
     OC20 = "oc20"
     OC25 = "oc25"
     OMC = "omc"
-    ATP = "atp"
-
+    ATP_WB97XD3_DEF2_SVP = "atp_wB97XD3_def2-SVP"
+    ATP_WB97XD3_AUG_PCSEG_1 = "atp_wB97XD3_aug-pcseg-1"
 
 CHARGE_RANGE = [-100, 100]
 SPIN_RANGE = [0, 100]
